@@ -1,0 +1,13 @@
+---
+title: "Ultimate Question"
+author: "F Heiss"
+date: "February 08, 2016"
+output: pdf_document
+---
+
+The main calculation using the method "square root"
+(<http://mathworld.wolfram.com/SquareRoot.html>):
+
+```{r}
+sqrt(1764)
+```

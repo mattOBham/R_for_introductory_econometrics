@@ -1,0 +1,5 @@
+plot(x,y, main="Example for an Outlier")
+points(8,1)
+abline(a=0.31,b=0.97,lty=2,lwd=2)
+text(7,2,"outlier",pos=3)
+arrows(7,2,8,1,length=0.15)
